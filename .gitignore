@@ -1,0 +1,10 @@
+.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
+*.log
+*.db
+streamlit_stdout.log
+.vscode/
+.idea/

@@ -1,0 +1,38 @@
+subject,sender,body,label
+"Urgent: Verify your account now","security@paypaI-alert.com","Dear customer, your account will be suspended today unless you verify your password immediately. Click the secure form and confirm your login details to avoid permanent closure.",1
+"Invoice attached for review","billing@vendor-example.com","Hello team, please review the attached invoice for March services and let me know if any line item looks incorrect.",0
+"Congratulations! You won a gift card","promo@reward-center-now.com","You have been selected as the lucky winner of a $500 gift card. Claim your prize now by entering your banking details and password.",1
+"Meeting moved to 3 PM","manager@company.com","The client asked to move today's meeting to 3 PM. Please join the same calendar link.",0
+"Password reset request","support@micr0soft-verify.net","We detected unusual activity. Reset your password right now or your mailbox access will be disabled in 30 minutes.",1
+"Project update and notes","teammate@company.com","I pushed the latest dashboard fixes. Please review the comments before tomorrow's demo.",0
+"Tax refund pending","refunds@irs-gov-alerts.net","Your tax refund is pending. Submit your social security number and bank login to receive the amount without delay.",1
+"Your order has shipped","store@shop.com","Good news, your package has shipped and should arrive by Friday. Tracking details are included in the receipt.",0
+"Account suspended notice","admin@apple-security-check.org","Your Apple ID has been locked for suspicious billing activity. Confirm your credentials immediately to reactivate the account.",1
+"Lunch tomorrow?","friend@example.com","Are you free for lunch tomorrow near the campus cafe? I can be there around 1 PM.",0
+"Final warning about mailbox quota","storage@goog1e-helpdesk.com","Your mailbox exceeded the storage limit. Update your credentials to keep receiving email and prevent account suspension.",1
+"Weekly sprint summary","scrum.master@startup.io","Here is the sprint summary with completed tickets, blockers, and the plan for next week.",0
+"Security alert: unusual sign in","alerts@banking-secure-login.co","We blocked a suspicious sign in attempt. Confirm your account PIN and password immediately to secure your profile.",1
+"Flight itinerary confirmation","notifications@airline.com","Your booking is confirmed. Please find the itinerary, baggage allowance, and check-in details below.",0
+"Direct deposit issue","payroll@compaany-support.com","Your salary transfer failed. Verify your employee portal password and bank details today to avoid payroll delay.",1
+"Workshop registration confirmed","events@university.edu","Thank you for registering for the data science workshop. Check-in begins at 9 AM in Hall B.",0
+"Winner notification","claims@lottery-fastcash.net","This is your final notice. You won the international lottery. Send your date of birth and account credentials to release your funds.",1
+"Family photos","sibling@gmail.com","I uploaded the family photos from the weekend trip. Let me know which ones you want printed.",0
+"Action required: secure your wallet","crypto@coinbase-validate.org","Your wallet access will be restricted. Verify recovery phrase and account password within one hour.",1
+"Research paper feedback","professor@college.edu","I reviewed your draft and added comments on the methodology section. The literature review is improving.",0
+"Document shared with you","drive-notify@googledrive.com","A document has been shared with you. Open it from Drive when you have time to review the outline.",0
+"Confirm payment now","payments@netfIix-update.com","Your subscription payment failed. Confirm card information and login credentials now to prevent service interruption.",1
+"New company policy","hr@company.com","Please read the updated remote work policy and acknowledge it by Friday through the HR portal.",0
+"Urgent legal complaint","notice@court-action-services.com","A complaint has been filed against you. Download the attached form and submit your personal credentials to avoid arrest.",1
+"Code review notes","lead.engineer@company.com","Thanks for the cleanup in the parser module. I left a few notes about naming and test coverage.",0
+"Mailbox password expiration","helpdesk@office365-security-mail.com","Your password expires today. Keep your mailbox active by confirming your current credentials and backup email.",1
+"Conference tickets","tickets@events.io","Your conference tickets are attached. Doors open at 8:30 AM and breakfast will be served.",0
+"Bank statement available","secure@mybank.com","Your monthly bank statement is now available in the secure online portal. No action is needed unless you notice something unusual.",0
+"Immediate action needed","service@amazon-account-verify.co","We noticed a problem processing your order. Login and confirm your shipping address, password, and payment details immediately.",1
+"Class cancelled","lecturer@school.edu","Today's 2 PM class is cancelled due to a faculty meeting. Slides will be uploaded this evening.",0
+"Re: internship shortlist","recruiter@startupjobs.co","Thanks for your application. We would like to schedule an introductory call next week.",0
+"Security update required","monitor@faceb00k-alerts.net","Your profile will be disabled unless you complete identity confirmation and submit your login password now.",1
+"Travel reimbursement form","finance@company.com","Please fill out the reimbursement form for your client travel and attach the hotel invoice.",0
+"Unusual billing attempt","alerts@visa-auth-check.com","We detected unusual billing behavior. Verify your card PIN, CVV, and account login to stop fraudulent charges.",1
+"Birthday dinner plans","cousin@yahoo.com","We're planning dinner for Saturday night at 7 PM. Let me know if that time works for you.",0
+"Mandatory VPN revalidation","it-help@corp-secure-access.net","Remote access has been suspended. Revalidate your VPN account by entering your username and password at the secure portal.",1
+"Newsletter March edition","newsletter@opensource.org","Welcome to the March edition of our newsletter with community highlights, release notes, and upcoming events.",0
