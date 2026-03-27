@@ -72,8 +72,16 @@ def load_app_state(config: AppConfig | None = None) -> Dict[str, Any]:
     if not active_config.app_state_path.exists():
         return DEFAULT_APP_STATE.copy()
 
-    with active_config.app_state_path.open("r", encoding="utf-8") as file:
-        persisted = json.load(file)
+    try:
+        with active_config.app_state_path.open("r", encoding="utf-8") as file:
+            raw_content = file.read().strip()
+            if not raw_content:
+                save_app_state(DEFAULT_APP_STATE, active_config)
+                return DEFAULT_APP_STATE.copy()
+            persisted = json.loads(raw_content)
+    except (json.JSONDecodeError, OSError):
+        save_app_state(DEFAULT_APP_STATE, active_config)
+        return DEFAULT_APP_STATE.copy()
 
     state = DEFAULT_APP_STATE.copy()
     state.update(persisted)
